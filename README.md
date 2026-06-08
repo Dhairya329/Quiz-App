@@ -25,3 +25,11 @@ An Android quiz application built using **Kotlin** and **XML** that challenges u
 ## 👨‍💻 Author
 
 Developed to demonstrate Android development fundamentals, including user input validation, UI design, navigation, and application logic.
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Dhairya329/Quiz-App.git
+```
+
+Open in Android Studio and run my app.
