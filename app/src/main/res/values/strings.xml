@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">QuizApp</string>
+
+    // Text View Strings from Main Activity
+    <string name="welcomeMsg">Welcome!!!</string>
+    <string name="enterName">Enter your Name: </string>
+    <string name="name">Name:</string>
+
+    // Button Strings from Main Activity
+    <string name="startQuiz">Start Quiz</string>
+
+    // Text View Strings from Questions Activity
+    <string name="question">Which country flag is this?</string>
+    <string name="imageContentDescription">Flag Image</string>
+    <string name="progressText">0/10</string>
+    <string name="resultText">%1$d / %2$d</string>
+
+    // Button Strings from Questions Activity
+    <string name="submitButton">Submit</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
+    <string name="option4">Option 4</string>
+    <string name="finishButton">Finish</string>
+
+    // Text View from Result Activity
+    <string name="resultTextView">Result: </string>
+    <string name="congratulationsTextView">Congratulations, </string>
+    <string name="usernameTextView">Username</string>
+    <string name="scoreTextView">You scored %1$d out of %2$d</string>
+
+    // Button from Result Activity
+    <string name="exitButton">Exit</string>
+
+</resources>
+
+
+
+
+
+
+
+
