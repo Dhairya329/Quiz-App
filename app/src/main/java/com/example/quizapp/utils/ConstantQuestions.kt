@@ -285,6 +285,61 @@ object ConstantQuestions {
             3
         )
 
+        val ques26 = Questions(
+            26,
+            "Hormone released during fight or flight response is?",
+            R.drawable.adrealine,
+            "Adrenaline",
+            "Cortisol",
+            "Insulin",
+            "Glucagon",
+            1
+        )
+
+        val ques27 = Questions(
+            27,
+            "What does Wi-Fi stand for?",
+            R.drawable.wifi,
+            "Wireless Function",
+            "Wireless Fidelity",
+            "Wide Fidelity",
+            "Wired Fidelity",
+            2
+        )
+
+        val ques28 = Questions(
+            28,
+            "What principle does Stack follow?",
+            R.drawable.stack,
+            "Last In, First Out",
+            "First In, First Out",
+            "Last Out, First In",
+            "Last In, Last Out",
+            1
+        )
+
+        val ques29 = Questions(
+            29,
+            "What order is formed by inorder traversal in binary search tree?",
+            R.drawable.binarysearchtree,
+            "Random order",
+            "Descending order",
+            "Ascending order",
+            "Level order",
+            3
+        )
+
+        val ques30 = Questions(
+            30,
+            "What does SSD stand for?",
+            R.drawable.ssd,
+            "Serial Storage Device",
+            "Secure State Drive",
+            "Standard State Drive",
+            "Solid State Drive",
+            4
+        )
+
         questionsList.add(ques1)
         questionsList.add(ques2)
         questionsList.add(ques3)
@@ -310,6 +365,11 @@ object ConstantQuestions {
         questionsList.add(ques23)
         questionsList.add(ques24)
         questionsList.add(ques25)
+        questionsList.add(ques26)
+        questionsList.add(ques27)
+        questionsList.add(ques28)
+        questionsList.add(ques29)
+        questionsList.add(ques30)
 
         return questionsList
     }
